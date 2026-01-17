@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GameOfThrones/static/css/main.eb471674.css",
+    "main.js": "/GameOfThrones/static/js/main.666c575b.js",
+    "static/js/453.d6ae7b23.chunk.js": "/GameOfThrones/static/js/453.d6ae7b23.chunk.js",
+    "index.html": "/GameOfThrones/index.html",
+    "main.eb471674.css.map": "/GameOfThrones/static/css/main.eb471674.css.map",
+    "main.666c575b.js.map": "/GameOfThrones/static/js/main.666c575b.js.map",
+    "453.d6ae7b23.chunk.js.map": "/GameOfThrones/static/js/453.d6ae7b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb471674.css",
+    "static/js/main.666c575b.js"
+  ]
+}
